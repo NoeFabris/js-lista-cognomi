@@ -16,13 +16,10 @@ main{
 .box h1{
     margin: 10px 0;
 }
-#output{
+#output, #posizione{
     font-weight: bold;
     font-size: 5rem;
 }
-#no{
-    color: red;
-}
-#yes{
-    color: rgb(0, 255, 42);
+ul li{
+    list-style: none;
 }
